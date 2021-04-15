@@ -1,5 +1,6 @@
 - 👋 Hi, glad to see you here! 
--    Little about me
+
+Little about me
 - 👀 I love writing code in kotlin.
 - 🌱 Jetpack Compose is taking all my attention these days.
 - 📫 Twitter handle @pyus13
