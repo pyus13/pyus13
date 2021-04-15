@@ -2,7 +2,6 @@
 - 👀 I love writing code in kotlin.
 - 🌱 Jetpack Compose is taking all my attention these days.
 - 📫 Twitter handle @pyus13
-- 
 
 <!---
 pyus13/pyus13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
