@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Piyush Agarwal
+- 👋 Hi, glad to see you here! 
+-    Little about me
 - 👀 I love writing code in kotlin.
 - 🌱 Jetpack Compose is taking all my attention these days.
 - 📫 Twitter handle @pyus13
